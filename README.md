@@ -1,4 +1,7 @@
 ## Hi there 👋
+
+My name is Barbod, and I am Backend developer selfstudied, intrested in all things Python & Django!
+
 - 🔭 I’m currently working on Rhino apps
 - 🌱 I’m currently learning more about Django
 - 📫 How to reach me: barbod.jangjoo96@gmail.com
