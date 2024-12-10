@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on Rhino apps
+- 🌱 I’m currently learning more about Django
+- 📫 How to reach me: barbod.jangjoo96@gmail.com
 <!--
 **barbodjangjoo/barbodjangjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
