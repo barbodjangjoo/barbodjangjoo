@@ -2,8 +2,8 @@
 
 My name is Barbod, and I am Backend developer selfstudied, intrested in all things Python & Django!
 
-- 🔭 I’m currently working on Rhino apps
-- 🌱 I’m currently learning more about Django
+- 🔭 I’m currently working on [Rhino-Teams](https://app.rhino-teams.com), Building backend of the app and the website combine LMS with gamefication
+- 🌱 I’m recently learned about Django and Python
 - 📫 How to reach me: barbod.jangjoo96@gmail.com
 <!--
 **barbodjangjoo/barbodjangjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
