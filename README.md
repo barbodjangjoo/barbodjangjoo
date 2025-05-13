@@ -2,7 +2,7 @@
 
 My name is Barbod, and I am Backend developer selfstudied, intrested in all things Python & Django!
 
-- 🔭 I’m currently working on [Rhino-Teams](https://app.rhino-teams.com), Building backend of the app and the website combine LMS with gamefication
+- 🔭 I’m currently working on [Rhino-Teams](https://rhino-teams.com), Building backend of the app and the website combine LMS with gamefication
 - 🌱 I’m recently learned about Django and Python
 - 📫 How to reach me: barbod.jangjoo96@gmail.com
 <!--
