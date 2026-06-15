@@ -1,21 +1,29 @@
-## Hi there 👋
+# Hi, I'm Barbod 👋
 
-My name is Barbod, and I am Backend developer selfstudied, intrested in all things Python & Django!
+Backend Developer focused on building scalable systems 
+with Django, PostgreSQL, and Redis.
 
-- 🔭 I’m currently working on [Rhino-Teams](https://rhino-teams.com), Building backend of the app and the website combine LMS with gamefication
-- 🌱 I’m recently learned about Django and Python
-- 📫 How to reach me: barbod.jangjoo96@gmail.com
-<!--
-**barbodjangjoo/barbodjangjoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I started coding independently before pursuing a formal 
+degree — driven by curiosity and a need to build real things.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core:** Python · Django · Django REST Framework  
+**Database:** PostgreSQL · Redis  
+**Background Tasks:** Celery  
+**DevOps:** Docker · Nginx · Git · Linux  
+**Other:** FFmpeg · Pandas  
+
+## 💼 What I've Built
+
+- 🎓 A full LMS platform with video processing, quiz progression, 
+  leaderboard, and Zarinpal payment integration
+- 🏗️ An automated pipeline for parsing GAEB construction files 
+  and exporting structured Excel reports
+- 🛒 A complete e-commerce backend with inventory management 
+  and payment gateway
+
+## 📫 Contact
+
+- Email: barbod.jangjoo96@gmail.com  
+- LinkedIn: linkedin.com/in/barbod-jangjoo
